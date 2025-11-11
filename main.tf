@@ -1,5 +1,5 @@
 resource "google_compute_network" "vpc" {
-  name                    = "tf-demo-net"
+  name                    = "tf-demo-net-2"
   auto_create_subnetworks = false
 }
 
